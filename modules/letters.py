@@ -1,6 +1,3 @@
-from itertools import count
-
-
 class Letters:
     def __init__(self):
         self.letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l',
